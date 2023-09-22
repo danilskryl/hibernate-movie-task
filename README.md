@@ -1,5 +1,5 @@
 ><h1>Hibernate </h1>
-<img src="src/main/resources/db_diagram.png" alt="diagram">
+<img src="src/main/resources/db_diagram.png" alt="diagram"/>
 <h4>1. Create and map all entities</h4>
 <h4>2. Add DAO classes</h4>
 <h4>3. Add a transactional method that can create a new customer with all dependent fields</h4>
